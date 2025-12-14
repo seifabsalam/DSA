@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765631780 source:s:\seif\nagib\q2\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<vector>
+
+1763542666 c:\users\idkya\downloads\mylibrary.h
+	<windows.h>
+
+1398769284 c:\users\idkya\downloads\tools_for_graphics\tools_for_graphics\winbgim\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
