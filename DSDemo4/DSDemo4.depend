@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1765629675 source:s:\seif\nagib\dsdemo4\main.cpp
+	<iostream>
+	"S:\seif\nagib\DSDemo4\BST.h"
+
+1765629662 s:\seif\nagib\dsdemo4\bst.h
+	"S:\seif\nagib\DSDemo4\Node.h"
+	"S:\seif\nagib\DSDemo4\Employee.h"
+
+1765623903 s:\seif\nagib\dsdemo4\node.h
+	"S:\seif\nagib\DSDemo4\Employee.h"
+	<iostream>
+
+1765615537 s:\seif\nagib\dsdemo4\bnode.h
+	<string>
+
+1765623636 s:\seif\nagib\dsdemo4\employee.h
+
